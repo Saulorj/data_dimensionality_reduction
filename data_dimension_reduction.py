@@ -531,11 +531,25 @@ plt.legend()
 plt.show()
 
 
-# In[ ]:
-
-
-
-
+# ### Conclusão
+# Com base nas observações o melhor resultado de acurácia (96%) foi com aplicação do PCA, ou seja, com a redução de dimensões é possível reduzirmos o consumo computacional e aumentar o ganho dos algoritmos.
+# 
+# 
+# ### Referências
+# Sites da Internet  
+# https://blog.paperspace.com/dimension-reduction-with-autoencoders/  
+# https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/  
+# 
+# 
+# Artigos do Medium  
+# https://python.plainenglish.io/non-negative-matrix-factorization-for-dimensionality-reduction-predictive-hacks-1ed9e91154c  
+# https://medium.com/@rinu.gour123/dimensionality-reduction-in-machine-learning-dad03dd46a9e  
+# https://medium.com/analytics-vidhya/a-complete-guide-on-dimensionality-reduction-62d9698013d2  
+# https://towardsdatascience.com/tagged/dimensionality-reduction  
+# 
+# Livros  
+# Python Data Science Essentials - Third Edition now with O’Reilly online learning.  
+# Python Data Science Handbook by Jake VanderPlas; Jupyter notebooks are available on [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)  
 
 # In[ ]:
 
